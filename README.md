@@ -1,7 +1,18 @@
-# 👋 Hello, I'm Sajen Sarvajith Karthikeyan
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sajen-k)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/sajen-k)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sajensarvajith.karthikeyan@stonybrook.edu)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello%2C+I'm+Sajen+Sarvajith+Karthikeyan+%F0%9F%91%8B;Welcome+to+my+Profile!" alt="Typing SVG" />
+</div>
+<h3 align="center">🚀 Graduate Student | 💻 Full Stack Developer | ☁️ Cloud Enthusiast</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/sajen-k"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sajen-k"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+  <a href="mailto:sajensarvajith.karthikeyan@stonybrook.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" />
+</div>
+
+
+
 ## 🚀 About Me
 I'm a passionate Computer Science graduate student at Stony Brook University, with a strong foundation in software development and a keen interest in cutting-edge technologies. My journey in tech has led me from Chennai, India to New York, USA, where I'm constantly pushing the boundaries of what's possible in software engineering.
 ## 🎓 Education
