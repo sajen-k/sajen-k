@@ -18,6 +18,21 @@ I'm a passionate Computer Science graduate student at Stony Brook University, wi
 ## 🎓 Education
 - Master of Science in Computer Science - Stony Brook University (Aug 2023 – May 2025)
 - Bachelor of Engineering in Computer Science - Anna University (July 2019 – Apr 2023)
+<table>
+  <tr>
+    <td>🏫 Stony Brook University</td>
+    <td>📍 Stony Brook, NY</td>
+    <td>🎓 Master of Science in Computer Science</td>
+    <td>📅 Aug 2023 – May 2025</td>
+  </tr>
+  <tr>
+    <td>🏫 Anna University</td>
+    <td>📍 Chennai, India</td>
+    <td>🎓 Bachelor of Engineering in Computer Science</td>
+    <td>📅 July 2019 – Apr 2023</td>
+  </tr>
+</table>
+
 ## 💼 Professional Experience
 ### Project Trainee @ Zoho Corporation
 Jan 2023 – Feb 2023
