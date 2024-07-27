@@ -114,7 +114,7 @@ Go, Ruby on Rails, Redis, PostgreSQL, Docker, Kubernetes, AWS
 - 🔗 Developed API gateway, reducing backend load by 60%
 - ☁️ Achieved 99.95% uptime using AWS CloudFormation
 ## 📈 GitHub Stats
-![Sajen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajen-k&show_icons=true&theme=radical)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sajen-k&show_icons=true&theme=radical" alt="Sajen's GitHub Stats" />
 </p>
