@@ -102,3 +102,6 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 ---
 
 <p align="center">💻 Code with passion. Build with purpose. 🚀</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajen-k&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
