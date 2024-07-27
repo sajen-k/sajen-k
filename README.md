@@ -4,9 +4,21 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/sajen-k)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sajensarvajith.karthikeyan@stonybrook.edu)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" />
+</div>
+
 ## 🚀 About Me
 
-I'm a passionate Computer Science graduate student at Stony Brook University, with a strong foundation in software development and a keen interest in cutting-edge technologies. My journey in tech has led me from Chennai, India to New York, USA, where I'm constantly pushing the boundaries of what's possible in software engineering.
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" align="right" />
+
+I'm a passionate Computer Science graduate student at Stony Brook University, with a strong foundation in software development and a keen interest in cutting-edge technologies. My journey in tech has taken me across continents, from the vibrant streets of Chennai to the bustling energy of New York.
+
+🌍 My Global Journey: 🇮🇳 India ✈️ 🇺🇸 USA
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" />
+</div>
 
 ## 🎓 Education
 
@@ -14,6 +26,10 @@ I'm a passionate Computer Science graduate student at Stony Brook University, wi
 - **Bachelor of Engineering in Computer Science** - Anna University (July 2019 – Apr 2023)
 
 ## 💼 Professional Experience
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
+</div>
 
 ### Project Trainee @ Zoho Corporation
 *Jan 2023 – Feb 2023*
@@ -31,6 +47,10 @@ I'm a passionate Computer Science graduate student at Stony Brook University, wi
 - 🏎️ Achieved 94% Lighthouse performance score and 0.8s page load time
 
 ## 🛠️ Technical Skills
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
+</div>
 
 ```mermaid
 graph TD
@@ -73,6 +93,10 @@ graph TD
 
 ## 🏗️ Featured Projects
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" />
+</div>
+
 ### GoFlow
 *Go, RabbitMQ, PostgreSQL, MongoDB, Docker, Kubernetes*
 - 🚀 Engineered microservices architecture with 99.9% uptime
@@ -94,6 +118,11 @@ graph TD
 
 ## 🌟 Let's Connect!
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200" />
+  <p><em>I love connecting with different people! Feel free to say hi! 👋</em></p>
+</div>
+
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sajen-k)
@@ -102,3 +131,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 ---
 
 <p align="center">💻 Code with passion. Build with purpose. 🚀</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="400" />
+</div>
