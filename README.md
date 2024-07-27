@@ -101,6 +101,10 @@ Go, Ruby on Rails, Redis, PostgreSQL, Docker, Kubernetes, AWS
 - ☁️ Achieved 99.95% uptime using AWS CloudFormation
 ## 📈 GitHub Stats
 ![Sajen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajen-k&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajen-k&theme=radical" alt="sajen-k's streak" />
+</p>
+
 ## 🌟 Let's Connect!
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" />
