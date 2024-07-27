@@ -108,6 +108,5 @@ graph TD
 
 <p align="center">💻 Code with passion. Build with purpose. 🚀</p>
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="400" />  
-  <img src="https://komarev.com/ghpvc/?username=sajen-k&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="400" />
 </div>
