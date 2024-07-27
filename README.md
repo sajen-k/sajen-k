@@ -16,8 +16,7 @@
 ## 🚀 About Me
 I'm a passionate Computer Science graduate student at Stony Brook University, with a strong foundation in software development and a keen interest in cutting-edge technologies. My journey in tech has led me from Chennai, India to New York, USA, where I'm constantly pushing the boundaries of what's possible in software engineering.
 ## 🎓 Education
-- Master of Science in Computer Science - Stony Brook University (Aug 2023 – May 2025)
-- Bachelor of Engineering in Computer Science - Anna University (July 2019 – Apr 2023)
+
 <table>
   <tr>
     <td>🏫 Stony Brook University</td>
@@ -117,8 +116,12 @@ Go, Ruby on Rails, Redis, PostgreSQL, Docker, Kubernetes, AWS
 ## 📈 GitHub Stats
 ![Sajen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajen-k&show_icons=true&theme=radical)
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajen-k&show_icons=true&theme=radical" alt="Sajen's GitHub Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajen-k&theme=radical" alt="sajen-k's streak" />
 </p>
+
 
 ## 🌟 Let's Connect!
 <div align="center">
