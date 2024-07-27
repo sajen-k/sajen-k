@@ -96,6 +96,15 @@ graph TD
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" />
+  <p><em>I love connecting with different people! Feel free to say hi! 👋</em></p>
+</div>
+<p align="center">
+  <a href="https://linkedin.com/in/sajen-k"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:sajensarvajith.karthikeyan@stonybrook.edu"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sajen-k)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sajensarvajith.karthikeyan@stonybrook.edu)
 
