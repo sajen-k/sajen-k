@@ -94,8 +94,6 @@ graph TD
 
 ## 🌟 Let's Connect!
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
-
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" />
   <p><em>I love connecting with different people! Feel free to say hi! 👋</em></p>
@@ -112,5 +110,6 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 <p align="center">💻 Code with passion. Build with purpose. 🚀</p>
 <div align="center">
+  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="400" />  
   <img src="https://komarev.com/ghpvc/?username=sajen-k&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
